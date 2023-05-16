@@ -1,247 +1,245 @@
-# Börja koda med Scratch - introuppgift
-**Vad är detta?** I denna introuppgift får du som är ny till programmering och verktyget Scratch prova på några enkla första steg av kodning.  
+# ПОЧНІТЬ КОДУВАТИ ЗА ДОПОМОГОЮ SCRATCH - ВСТУПНЕ ЗАВДАННЯ
+**Що це?** У цьому вступному завданні ви, хто новачок у програмуванні та інструменті Scratch, зможете спробувати кілька простих перших кроків програмування.
 
-**Mål:** Lägga till en ny figur, måla en bakgrund, koda figuren att röra sig.
+**Цілі:** додати нову фігуру, розфарбувати фон, закодувати фігуру для переміщення.
 
-**Exempelprojekt:** Klicka på bilden för att testa ett färdigt exempelprojekt: <a href="https://scratch.mit.edu/projects/445589191/" target="_blank"> ![image alt text](Exempelprojekt_sprajtPåBana.png)</a>
+**Зразок проекту:** натисніть на зображення, щоб протестувати готовий зразок проекту: <a href="https://scratch.mit.edu/projects/445589191/" target="_blank"> ![image alt text](Exempelprojekt_sprajtPåBana.png)</a>
 
-> **HUR KODAR JAG?** 
+> **ЯК Я КОДУЮ?** 
 </br>
-Följ instruktionen steg-för-steg och koda ditt projekt i verktyget Scratch. <a href="https://scratch.mit.edu" target="_blank"> Klicka här för att öppna Scratch.</a> 
+Дотримуйтеся покрокових інструкцій і кодуйте свій проект в інструменті Scratch.  <a href="https://scratch.mit.edu" target="_blank"> Натисніть тут, щоб відкрити Scratch. </a> 
 </br>
-Klicka på **Skapa** överst på Scratch webbsida för att öppna kodverktyget. Om du har ett konto på Scratch kan du logga in, och sen även spara projektet.
+Натисніть **Створити** у верхній частині веб-сторінки Scratch, щоб відкрити інструмент кодування. Якщо у вас є обліковий запис на Scratch, ви можете увійти, а потім також зберегти проект.
     ![image alt text](Scratch_sajt.png) 
 </br>
 
-Dax att börja koda! Se till att du har Scratch öppnat i en flik i din webbläsare och den här instruktionen i en annan flik. Eller i två fönster bredvid varandra.
+Час почати кодування! Переконайтеся, що Scratch відкрито на одній вкладці у вашому браузері, а цей посібник – на іншій. Або в двох вікнах поруч.
 </br>
 </br>
-Klicka på kapitel 1 nedan för att gå vidare.
+Натисніть Розділ 1 нижче, щоб продовжити.
 
-## 1: Välj ny sprajtfigur
+## 1: Виберіть нову фігуру спрайту
 
-I Scratch kallas figurer och gubbar för en **sprajt**. Det finns massor av sprajtar att lägga in i ditt projekt som du sedan kan koda att röra på sig.
+У Scratch фігури та чоловічки називаються спрайтами. Існує безліч спрайтів, які можна додати у свій проект, які потім можна перемістити в код.
 
-Här ser du några exempel på olika **sprajtar**. </br>
+Тут ви бачите кілька прикладів різних спрайтів. </br>
     ![image alt text](exempel_sprajtar.png) 
 </br>
 
-**Dax att byta ut katt-sprajten:** Vi börjar med att byta ut katt-sprajten till ny sprajt-figur - till exempel en skalbagge! 
+**Час замінювати спрайт кота:** ми починаємо із заміни спрайта кота новою фігурою спрайту - наприклад, жука!
 </br>
 
-Här nedan kan du se en video på hur du gör detta. Under videon finns även text som beskriver hur du gör steg-för-steg.
-<video src="./BugRacedel1_nytt.mp4" controls muted height=480 width=640 />
+Нижче ви можете переглянути відео, як це зробити. Під відео також є текст, який описує, як це зробити крок за кроком.
 
->**VAD SKA JAG GÖRA?**
+>**ЩО Я ПОВИНЕН ЗРОБИТИ?**
 
-Se i videon ovan hur du ska:
-- Ta bort kattfiguren från projektet
-- Välja en ny sprajt-figur (exempelvis en skalbagge)
-- Minska sprajtens storlek
+Подивіться у відео вище, як:
+- Видаліть фігурку кота з проекту
+- Виберіть нову фігуру спрайту (наприклад, жука)
+- Зменшіть розмір спрайту
 
 <br>
->**INSTRUKTION HUR JAG GÖR STEG-FÖR-STEG:**
+>**ПОКРОКОВА ІНСТРУКЦІЯ:**
 
-Se till att du har klickat **Skapa** i Scratch så att verktyget Scratch har öppnats så du är redo att skapa ditt projekt. 
-Först ska vi byta ut katten mot en annan sprajt-figur. Gör såhär:
+SПереконайтеся, що ви натиснули «Створити в Scratch», щоб відкрити інструмент «Scratch», тож ви готові створити свій проект. По-перше, ми збираємося замінити кота іншою фігуркою спрайту. Зробити це:
 
-**Ta bort katten och välj ny sprajt**
+**Видаліть кота та виберіть новий спрайт**
 
-1. Det finns två likadana katt-figurer i projektet - en stor och en liten. Den stora står på den vita **Scenen** och den lilla katt-bilden i en ruta under scenen. På den lilla kattfiguren finns **en soptunna**. Klicka på soptunnan så raderas kattsprajten ur projektet. Scenen blir helt tom.
+1. 1.	У проекті є дві однакові фігурки кота - велика і маленька. Великий стоїть на білій сцені (сцена), а малюнок маленького кота в ящику під сценою. На фігурці маленького кота — корзина. Натисніть на корзину, і спрайт кота буде видалено з проекту. Сцена стає абсолютно порожньою.
 
     ![image alt text](Ta_bort_Sprajt.png) 
 
-2. Nu ska vi lägga till en ny sprajt-figur. Under scenen långt ner till höger finns en blå knapp med ett vitt kattansikte på. Knappen heter **Välj en sprajt**. Tryck på den.
+2. Тепер ми збираємося додати нову фігуру спрайту. Праворуч під сценою є синя кнопка з обличчям білого кота. Кнопка називається Вибрати спрайт. Натисніть її.
 
     ![image alt text](Ny_Sprajt-knapp.png)
 
-3. Nu kommer du in i Scratch stora sprajtbibliotek. Här finns massor av sprajtar att välja mellan. Klicka på den sprajt du vill ha så läggs den till i ditt projekt och hamnar på scenen.
+3. Тепер ви заходите у велику бібліотеку спрайтів Scratch. Тут є багато спрайтів на вибір. Натисніть потрібний спрайт, і він буде доданий до вашого проекту та розміщений на сцені.
 
     ![image alt text](sprajtbiblioteket.png)
 
->**Tips!** I Sprajtbibliotekets meny längst upp finns olika kategorier som du kan välja mellan för att lättare hitta en sprajt du vill ha, exempelvis kategorin *Djur* eller *Mat*. Det finns även en sökfunktion.
+>**Порада!** У меню бібліотеки спрайтів у верхній частині є різні категорії, які ви можете вибрати, щоб полегшити пошук потрібного вам спрайту, наприклад категорія «Тварини» або «Їжа». Також є функція пошуку.
 
-**Minska sprajtens storlek**
+**Зменшіть розмір спрайту**
 
-4. Sprajten du just lagt till är ganska stor, så du kan minska storleken på den. Under scenen där sprajten finns hittar du rubriken **Storlek - 100**. Det betyder att sprajten är i full storlek, alltså 100%. Ändra siffran till en lägre procent, exempelvis 50. Du kan alltid ändra det igen senare om det blev för stort eller litet.
+4. Спрайт, який ви щойно додали, досить великий, тому ви можете зменшити його розмір. Під сценою, де знаходиться спрайт, ви знайдете заголовок Size (Розмір) - 100. Це означає, що спрайт має повний розмір, тобто 100%. Змініть число на менший відсоток, наприклад 50. Ви завжди можете змінити його пізніше, якщо воно було занадто великим або малим.
 
     ![image alt text](Ändra_Storlek_Sprajt.png)
 
-**Nästa steg:**
-Nu har vi en sprajt. Men den behöver en bakgrund att springa på! Dax att rita en bakgrundsbild med en väg.
+**Наступний крок:**
+Тепер у нас є спрайт. Але для роботи потрібен фон! Час намалювати фонове зображення з дорогою.
 
-Klicka dig vidare till kapitel 2.
+Перейдіть до розділу 2.
 
-## 2: Rita en bakgrund
-Nu ska vi rita en bakgrund med en väg som sprajten kan springa på.
+## 2: Намалюйте фон
+Тепер ми намалюємо фон із доріжкою, по якій буде бігати спрайт.
 
 
->**VAD SKA JAG GÖRA?**
+>**ЩО Я ПОВИНЕН ЗРОБИТИ?**
 
-- Aktivera bakgrunden
-- Aktivera Bitmapp-läge i ritverktyget
-- Välj färg och verktyg för att fylla bakgrunden
-- Välj ny färg och verktyg för att måla en väg
+- Активуйте фон
+- Увімкніть Bitmap режим в інструменті малювання
+- Виберіть колір і інструмент для заповнення фону
+- Виберіть новий колір і інструменти, щоб намалювати дорогу
 
 <br>
->**INSTRUKTION HUR JAG GÖR STEG-FÖR-STEG:**
+>**ПОКРОКОВА ІНСТРУКЦІЯ:**
 
-Den vita rutan bakom din sprajt kallas för en Scen. Vi kan ändra bakgrund på scenen, antingen genom att lägga till en färdig bild från Scratch bakgrundsbibliotek eller genom att rita en egen bakgrund. Nu ska vi rita en bakgrund med en väg på. Gör såhär:
+Біле поле позаду вашого спрайту називається Сценою. Ми можемо змінити фон на сцені, або додавши готове зображення з фонової бібліотеки Scratch, або намалювавши власний фон. Тепер ми намалюємо фон з дорогою. Зробити це:
 
-**Aktivera bakgrunden och ritverktyget**
+**Активуйте фон і інструмент малювання**
 
-1. Just nu är sprajten aktiverad, då det är den vi jobbat med. För att jobba med bakgrunden måste vi aktivera bakgrunden istället. Klicka på den lilla vita rutan långt ned till höger nära där det står **SCEN**. Då blir den lilla vita rutan markerad med en blå ram och bakgrunen är aktiverad. 
+1. На даний момент спрайт активований, оскільки ми з ним працювали. Щоб працювати з фоном, ми повинні активувати фон. Клацніть на маленьке біле поле далеко внизу праворуч біля напису СЦЕНА. Потім маленьке біле поле позначається синьою рамкою, і фон активується.
 
     ![image alt text](Aktivera_Scen_Bakgrund.png)
 
-2. För att öppna bakgrundens ritverktyg klickar du på fliken som heter **BAKGRUNDER** som finns högt uppe till vänster i Scratch.
+2. Щоб відкрити інструмент малювання фону, клацніть вкладку під назвою «ФОНИ», розташовану у верхньому лівому куті Scratch.
 
 	  ![image alt text](Aktivera_Bakgrunder-flik.png)
 
-3. Klicka först på den blå knappen längst ned under ritytan som det står **"Gör till bitmapp** på. Detta gör ditt målande mycket lättare.
+3. Спочатку натисніть синю кнопку внизу під монтажною областю з написом «Увімкнути растрове зображення». Це значно полегшить малювання.
 
     ![image alt text](Bakgrunder_Gör_till_bitmapp.png)
     
-**Välj färg och verktyg och fyll bakgrunden**
+**Виберіть колір та інструмент і заповніть фон**
 
-4. Välj **en ny färg** för bakgrunden genom att klicka på den lilla färgade rutan ovanför verktygen. En färgväljare kommer nu fram och du kan dra i de vita cirklarna i färgväljaren tills du får en färg du vill ha.
+4. Виберіть новий колір для фону, клацнувши маленьке кольорове поле над інструментами. Тепер з’явиться панель вибору кольорів, і ви можете перетягувати білі кружечки в ній, доки не отримаєте потрібний колір.
 
    ![image alt text](RITA_Välj_Färg-funktion_bitmapp.png)
     
-5. Klicka nu på vertyget som ser ut som en **HINK**. Klicka sen på den vita rutan bredvid hinken så fylls hela bakgrunden med din nya färg.
+5. Тепер клацніть на інструменті, схожому на ВІДРО. Потім клацніть біле поле поруч із відерцем, і весь фон буде заповнено вашим новим кольором.
 
   ![image alt text](Bakgrunder_Fyll_med_färg-verktyg.png)
   
-**Välj nytt verktyg och färg och måla en väg**
+**Виберіть новий інструмент і колір і розфарбуйте дорогу**
 
-6. Nu ska vi måla en väg på bakgrunden som sprajten kan springa på. Klicka på verktyget som ser ut som en **PENSEL**. Klicka sen på **siffran 10** som står ovanför ritytan och ändra penselns storlek till 100 - det blir en lagom bredd för vägen. Välj sen en **ny färg** med färgväljaren. 
+6. Тепер ми намалюємо шлях на фоні, по якому спрайт зможе бігати. Клацніть на інструмент, схожий на ПЕНЗЛИК. Потім натисніть на цифру 10, яка знаходиться над поверхнею малювання, і змініть розмір пензля на 100 - це буде відповідна ширина для дороги. Потім виберіть новий колір за допомогою палітри кольорів.
 
  ![image alt text](Bakgrund_måla_pensel.png)
  
-7. Måla nu en rak väg på ritytan med penseln och den nya färgen. Strecket ska bli ganska tjockt så sprajten får plats på vägen.
+7. Тепер пензлем і новим кольором намалюйте прямий контур на поверхні малювання. Лінія повинна бути досить товстою, щоб спрайт міг поміститися на дорозі.
 
   ![image alt text](bakgrund_ritad_väg.png)
 
-**Nästa steg:**
-Nu har vi en sprajt och en bakgrund. Dax att börja koda så att sprajten kan röra på sig!
+**Наступний крок:**
 
-Klicka på kapitel 3 och gå vidare.
+Тепер у нас є спрайт і фон. Час починати кодувати, щоб спрайт міг рухатися!
+
+Натисніть Розділ 3 і рухайтеся далі.
 
 
-## 3: Sprajten rör på sig
-Med kod kan vi styra sprajten och projektet. Sprajtar är egentligen bara en stillastående bild. Sprajten behöver kodas med instruktioner om den ska kunna röra sig över scenen. Koden styr **hur** sprajten ska röra sig och **när** den ska börja röra sig. Koden skapar du med de små pusselbitarna med kod som du ser längst till vänster i Scratch. Koden pusslas ihop till ett så kallat **skript** och läggs på den stora vita skript-ytan i mitten av Scratch. 
+## 3: 3: Спрайт рухається
+За допомогою коду ми можемо контролювати спрайт і проект (напрямок). Насправді спрайти — це просто нерухоме зображення. Спрайт має бути закодований інструкціями, щоб він міг пересуватися по сцені. Код контролює, як має рухатися спрайт і коли він має почати рух. Ви створюєте код за допомогою маленьких шматочків коду, які ви бачите ліворуч у Scratch. Код об’єднується у так званий скрипт і розміщується у великій білій області скрипту посередині Scratch.
 </br>
-Dax att koda sprajtens rörelse!
+Час для кодування руху спрайту!
 
 
->**VAD SKA JAG GÖRA?**
+>**ЩО Я ПОВИНЕН ЗРОБИТИ?**
 
-- Aktivera sprajten och gå tillbaka till kodytan
-- Lägga in kod för start-block: *när GRÖN FLAGGA klickas på*
-- Lägga in kod för RÖRELSE: *gå 10 steg*
-- Lägga in kod för KONTROLL: *för alltid* (en loop)
+- Активуйте спрайт і поверніться до коду
+- Вставте код для стартового блоку: коли натиснуто ЗЕЛЕНИЙ ПРАПОРЕЦЬ
+- Введіть код для РУХУ: пройдіть 10 кроків
+- Вставте код для CONTROL: назавжди (цикл)
 
 <br>
->**INSTRUKTION HUR JAG GÖR STEG-FÖR-STEG:**
+>**ПОКРОКОВА ІНСТРУКЦІЯ**
 
-**Start och stoppknapp**
+**Кнопка запуску та зупинки**
 
-Har du lagt märke till START- och STOPP-knappen för projektet som finns ovanför scenen med sprajtfiguren? **Den gröna flaggan** är en start-knapp och **den röda knappen** är en stopp-knapp.
+Ви помітили кнопки START і STOP для проекту над сценою спрайтів? Зелений прапорець — це кнопка запуску, а червоний — кнопка зупинки.
 
   ![image alt text](START_STOPP-funktion.png)
 
-Nu ska du koda så att din sprajtfigur börjar röra sig när du trycker på START-knappen - alltså **den gröna flaggan** ovanför scenen. 
+Тепер вам потрібно закодувати так, щоб ваш спрайт почав рухатися, коли ви натискаєте кнопку СТАРТ, тобто зелений прапорець над сценою.
 
-**Aktivera sprajten och gå tillbaka till kodverktyget**
+**Активуйте спрайт і поверніться до інструменту коду**
 
-1. Vi har ritat i ritverktyget för bakgrunden. För att stänga ritverktyget klickar du på fliken som heter **KOD** högt upp till vänster i Scratch. Klicka sedan även på lilla bilden av din sprajt för att aktivera sprajten istället för bakgrunden. 
+1. Ми намалювали інструмент для малювання фону. Щоб закрити інструмент малювання, клацніть вкладку під назвою КОД у верхньому лівому куті Scratch. Потім також клацніть маленьке зображення вашого спрайту, щоб активувати спрайт замість фону.
 
-Nu är du redo att börja koda din sprajt.
+Тепер ви готові почати кодувати свій спрайт.
 
-**Lägg in kodblock för start**
+**Вставте блок коду для початку**
 
-2. Längst till vänster hittar du olika färgade teman med rubriker, ex. *Rörelse* och *Utseende*. Om man klickar på olika teman kommer flera kodblock i form av pusselbitar fram. Valt tema och tillhörande kodblock har samma färg. 
+2. Далеко ліворуч ви знайдете різні кольорові теми із заголовками, напр. Рух і зовнішній вигляд. Якщо натиснути на різні теми, з’являться кілька блоків коду у вигляді шматочків пазла. Вибрана тема та відповідний блок коду мають однаковий колір.
 
-Klicka först på det gula temat som heter **HÄNDELSER** och välj kodblocket med en grön flagga på som heter: **"när GRÖN FLAGGA klickas på"**. Ta tag i kodblocket, dra det åt höger och släpp blocket på den stora, vita skript-ytan i mitten av Scratch.
+Спочатку клацніть жовту тему під назвою ПОДІЇ та виберіть блок коду із зеленим прапорцем під назвою: «коли натиснуто ЗЕЛЕНИЙ ПРАПОРЕЦЬ». Візьміть блок коду, перетягніть його праворуч і опустіть блок на велику білу область скрипту в центрі Scratch.
 
   ![image alt text](Koda_HÄNDELSER-När_START_klickas_på.png)
   
-Nu har du lagt in ett så kallat **start-block** i ditt projekt. Ett startblock ligger alltid överst i koden du vill bygga ihop.  Men det behövs mer kod för att prajten ska veta vad den ska göra när den gröna start-flaggan  har klickats på. Vi mpste koda vidare.
+Тепер ви ввели так званий стартовий блок у вашому проекті. Стартовий блок завжди розташований у верхній частині коду, який ви хочете створити. Але потрібно більше коду, щоб спрайт знав, що робити, коли натиснуто зелений прапорець. Ми продовжуємо кодувати.
 
-**Lägg in kodblock för rörelse**
+**Вставити блок коду для руху**
 
-3. Klicka på det blå temat som heter **RÖRELSE** och välj blocket **"gå 10 steg"**. Dra ut blocket till skriptytan och fäst det under det gula kodblocket med gröna flaggan på. Koppla ihop blocken som två pusselbitar.
+3. Натисніть на синю тему під назвою РУХ і виберіть блок «пройти 10 кроків». Перетягніть блок на поверхню скрипту та прикріпіть його під жовтим блоком коду із зеленим прапорцем. З'єднайте блоки, як дві частини головоломки.
 
   ![image alt text](Koda_Exempelscript_RÖRELSE_Gå10Steg.png)
 
- >**Tips!** Om man för två block nära varandra på skriptytan så syns en grå skugga. Då kan du släppa kodblocket du håller i så kopplar blocken automatiskt ihop sig som pusselbitar.
+ >**Порада!** Якщо наблизити два блоки один до одного на поверхні скрипту, буде видно сіру тінь. Потім ви можете відпустити блок коду, який ви тримаєте, і блоки автоматично з’єднаються, як шматочки пазла.
 ![image alt text](Koda_exempelbild_snapfunktion_kodblock.png)
 </br>
 
->**Testa koden!** Testa vad som händer när du trycker på START-knappen (den gröna flaggan ovanför scenen). Flyttar sig sprajten lite åt höger när du klickat på startknappen? Prova fler gånger, vad händer?
+>**Перевірте код!** Перевірте, що відбувається, коли ви натискаєте кнопку СТАРТ (зелений прапорець над сценою). Чи рухається спрайт трохи праворуч, коли ви натискаєте кнопку «Пуск»? Спробуйте більше разів, що вийде?
 
-**Repetera röreslekoden med en loop**
+**Повторіть код руху за допомогою циклу**
 
-4. Vi vill att sprajten ska röra sig framåt hela tiden efter att vi tryckt på startknappen. Vi behöver lägga till ett kodblock som repeterar rörelsen framåt om och om igen - alltså en loop i koden. Gör såhär: 
+4. Ми хочемо, щоб спрайт рухався вперед весь час після того, як ми натиснули кнопку запуску. Нам потрібно додати блок коду, який повторює рух вперед знову і знову - отже, цикл у коді. Зробити це:
 
-Klicka på det orangea temat som heter **KONTROLL**. Här finner du kodblocket som heter **"för alltid"**. Detta block kan repetera kod som läggs inuti den, alltså en **loop** som gör att koden sker om och om igen.
+Натисніть на помаранчеву тему під назвою CONTROL. Тут ви знайдете кодовий блок під назвою «назавжди». Цей блок може повторювати код, який міститься в ньому, тобто цикл, який змушує код повторюватися знову і знову.
 
-Dra in **"för alltid"**-loopen till skriptytan och lägg den direkt under **"när *GRÖN FLAGGA* klickas på"** så det blå rörelseblocket **"gå 10 steg"** lägger sig inuti loopen. Då ser det ut som i bilden nedan:
+Перетягніть петлю «назавжди» в область скрипту та розмістіть її безпосередньо під «коли натиснуто ЗЕЛЕНИЙ ПРАПОРЕЦЬ», щоб синій блок руху «пройти 10 кроків» знаходився всередині петлі. Тоді це виглядає як на малюнку нижче:
 
   ![image alt text](Koda_Exempelscript-KONTROLL-För_Alltid-loop.png)
 
->**Testa koden!** Tryck på START-flaggan för projektet. Nu blir det fart på sprajten som springer iväg.
+>**Перевірте код!** Натисніть прапор START для проекту. Тепер спрайт, який тікає, набирає швидкість.
 
-**Stoppa koden och dra tillbaka sprajten**
+**Зупиніть код і втягніть спрайт**
 
-5. Sprajten stoppar vid kanten. Ta tag i sprajten och dra tillbaka den ut på scenen igen. Springer sprajten iväg igen? Du måste klicka på den röda **stopp-knappen** ovanför scenen för att stoppa koden och så sprajten slutar springa.
+5. Спрайт зупиняється на краю. Візьміть спрайт і знову перетягніть його на сцену. Спрайт знову втікає? Ви повинні натиснути червону кнопку зупинки над сценою, щоб зупинити код, і спрайт припинить роботу.
 
   ![image alt text](START_STOPP-funktion.png)
 
->**Tips!** Rör sig sprajten för fort? Du kan ändra hastigheten genom att skriva en lägre siffra i det blå kodblocket som heter **gå 10 steg**. Klicka på siffran 10 i blocket och skriv exempelvis 3. Starta projektet igen - går sprajten lagom fort nu? Testa dig fram tills du är nöjd med hastigheten.
+>**Порада!** Спрайт рухається занадто швидко? Ви можете змінити швидкість, написавши меншу цифру в синьому блоці коду під назвою go 10 steps («пройти 10 кроків»). Клацніть на цифру 10 у блоці та напишіть, наприклад, 3. Запустіть проект знову – чи достатньо швидко зараз працює спрайт? Випробуйте свій шлях, поки не будете задоволені швидкістю.
 ![image alt text](Koda_RÖRELSE-Ändra_i_variabel-sänk_hastighet.png)
 </br>
 
-**Nästa steg:**
-Nu har vi en sprajt som springer på vägen. Men den fastnar vid kanten. Dags att sätta in en startposition.
+**Наступний крок:**
+Тепер у нас є спрайт, що біжить по дорозі. Але лишається на краю. Час зайняти вихідне положення.
 
-Klicka på kapitel 4 för att gå vidare.
+Натисніть Розділ 4, щоб продовжити.
 
-## 4: Sätt en Startposition
-För att slippa dra tillbaka skalbaggen varje gång du startar spelet så kan du koda sprajten att alltid starta på en bestämd plats på scenen. För detta använder vi oss av sprajtens x och y-koordinater.
+## 4: Встановіть початкову позицію
+Щоб не відтягувати жука щоразу, коли ви починаєте гру, ви можете закодувати спрайт так, щоб він завжди починався з певного місця на сцені. Для цього ми використовуємо координати x і y спрайту.
 
+>**ЩО Я ПОВИНЕН ЗРОБИТИ?**
 
->**VAD SKA JAG GÖRA?**
-
-- Dra sprajten till en plats på vägen där du vill den ska starta
-- Lägg in kodblock för position med RÖRELSE: gå till x:__ y:__
-
+- Перетягніть спрайт у те місце на дорозі, де ви хочете, щоб він почався
+- Вставте блок коду для позиції з РУХОМ: перейдіть до x:__ y:__
+- 
 <br>
->**INSTRUKTION HUR JAG GÖR STEG-FÖR-STEG:**
+>**IПОКРОКОВА ІНСТРУКЦІЯ:**
 
-**Lägg till kodblock för startposition**
+**Додати блок коду для початкової позиції**
 
-1. Dra sprajten till den position där du vill att den ska starta på vägen. 
+1. Перетягніть спрайт у положення, звідки ви хочете, щоб він почав рух. 
 
-2. Klicka på tema **RÖRELSE** till vänster och välj blocket **"gå till x:__ y:__"**. Lägg in kodblocket i skriptet direkt under det gula blocket som heter **"när GRÖN FLAGGA klickas på"**. De siffror (värden) som står i blocket vid X och Y är **koordinaterna** för den position som du har ställt skalbaggen på - alltså en bestämd plats på scenen. 
+2. Натисніть на тему  **РУХ** ліворуч і виберіть блок **"перейти до x:__ y:__"**. Розмістіть блок коду в сценарії безпосередньо під жовтим блоком під назвою **"коли натискається ЗЕЛЕНИЙ ПРАПОРЕЦЬ"**. Числа (значення), які з’являються в блоці під X і Y, є **координатами** положення, куди ви помістили жука, тобто конкретного місця на сцені.
 
   ![image alt text](Koda_RÖRELSE_Gå_till_X_Y_Startposition.png)
 
-Nu kommer skalbaggen att ställa sig på samma startposition varje gång du trycker på den gröna START-flaggan ovanför scenen.
+Тепер жук займатиме ту саму вихідну позицію кожного разу, коли ви натискатимете зелений прапорець СТАРТ над сценою.
 
->**Testa koden!** Testa ditt projekt och starta koden. Startar sprajten från samma plats varje gång du trycker på den gröna start-flaggan? Rör den sig lagom snabbt?
+>**Перевірте код!** Протестуйте свій проект і запустіть код. Чи починається спрайт з того самого місця кожного разу, коли ви натискаєте зелений прапорець старту? Чи досить швидко він рухається?
 
-**Bra jobbat! Nu har du skapat ditt första projekt i Scratch och kodat ditt första program som styr en sprajt att röra sig.**
-
-
-## Färdig!
-Grattis! Nu har du lärt dig grunderna i Scratch och kan ta dig an lite större projekt!
+**Гарна робота! Тепер ви створили свій перший проект у Scratch і закодували свою першу програму, яка керує рухом спрайту.**
 
 
-## Frågeställningar
+## Готово!
+Щиро вітаю! Тепер ви вивчили основи Scratch і можете братися за трохи більші проекти!
 
-* Vad är en sprajt?
 
-* Vad är en loop?
+## Питання 
 
-* Vad är ett skript?
+* Що таке спрайт?
+
+* Що таке петля?
+
+* Що таке скрипт?
