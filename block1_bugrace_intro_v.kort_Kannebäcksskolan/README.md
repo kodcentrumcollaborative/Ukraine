@@ -198,7 +198,7 @@
   ![image alt text](START_STOPP-funktion.png)
 
 >**Порада!** Спрайт рухається занадто швидко? Ви можете змінити швидкість, написавши меншу цифру в синьому блоці коду під назвою go 10 steps («пройти 10 кроків»). Клацніть на цифру 10 у блоці та напишіть, наприклад, 3. Запустіть проект знову – чи достатньо швидко зараз працює спрайт? Випробуйте свій шлях, поки не будете задоволені швидкістю.
-![image alt text]![ändra antal steg](https://github.com/kodcentrumcollaborative/Ukraine/assets/9465296/9424bd1f-2351-4f1f-af0a-dfd8ba62986f)
+![ändra antal steg](https://github.com/kodcentrumcollaborative/Ukraine/assets/9465296/9424bd1f-2351-4f1f-af0a-dfd8ba62986f)
 </br>
 
 **Наступний крок:**
